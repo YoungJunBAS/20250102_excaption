@@ -1,4 +1,4 @@
-﻿namespace _20250102_excpation
+﻿namespace _20250102_exception
 {
     partial class Form1
     {

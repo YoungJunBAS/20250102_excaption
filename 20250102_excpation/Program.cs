@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using _20250102_exception;
 
-namespace _20250102_excpation
+namespace _20250102_excpetion
 {
     internal static class Program
     {
